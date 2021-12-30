@@ -8,7 +8,7 @@ mor="\e[34m"
 mavi="\e[36m"
 beyaz="\033[1;37m"
 reset="\e[0m"
-author="\e[33mAuthor : \e[31mSAEP\e[32m  OFFİCİALL \e[31mV1.0\e[0m"
+author="\e[33mAuthor : \e[31mFurkan\e[32m Kerem \e[31mV1.0\e[0m"
 
 printf "\n"
 printf "\n"
